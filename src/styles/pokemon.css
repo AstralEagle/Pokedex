@@ -1,41 +1,41 @@
-.btnBack{
-    position: fixed;
-    top: 15px;
-    left: 15px;
-    padding: 5px;
+.btnBack {
+  position: fixed;
+  top: 15px;
+  left: 15px;
+  padding: 5px;
 }
 
 .pokemonInfo {
-    padding: 20px;
-    background-color: white;
-    border-radius: 15px;
-    height: 500px;
-    width: 400px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+  height: 500px;
+  width: 400px;
 }
-.pokeDesc{
-    font-size: 12px;
-    margin: 4px 0;
+.pokeDesc {
+  font-size: 12px;
+  margin: 4px 0;
 }
 .pokeImage {
-    height: 200px;
+  height: 200px;
 }
 
 .pokeSelect {
-    color: blue;
-    font-weight: bold;
+  color: blue;
+  font-weight: bold;
 }
-.infoStat{
-    font-size: 14px;
-    color: #252525;
+.infoStat {
+  font-size: 14px;
+  color: #252525;
 }
 .FaibleTab {
-    background-color: black;
-    padding: 1px 1px 0 1px;
-    width: 50px;
-    margin: 2px 5px;
+  background-color: black;
+  padding: 1px 1px 0 1px;
+  width: 50px;
+  margin: 2px 5px;
 }
 .FaibleRow {
-    background-color: white;
-    margin-bottom: 1px;
-    text-align: center;
+  background-color: white;
+  margin-bottom: 1px;
+  text-align: center;
 }

@@ -21,7 +21,6 @@
     "format": "prettier --write . --config ./.prettierrc",
     "prepare": "husky install",
     "pre-commit": "eslint ./src/**/*.{js,jsx} --fix && prettier --write . --config ./.prettierrc"
-
   },
   "eslintConfig": {
     "extends": [
