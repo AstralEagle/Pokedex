@@ -9,14 +9,14 @@ a {
   color: black;
 }
 
-header{
-  background-color: #e6e6e6 ;
+header {
+  background-color: #e6e6e6;
 }
 header a {
   color: black;
-  margin: 0 15px
+  margin: 0 15px;
 }
-ul{
+ul {
   padding: 15px;
   margin: 0;
 }
