@@ -133,7 +133,10 @@
     },
     "height": "0,7 m",
     "weight": "6,9 kg",
-    "egg_groups": ["Monstrueux", "V\u00e9g\u00e9tal"],
+    "egg_groups": [
+      "Monstrueux",
+      "V\u00e9g\u00e9tal"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -276,7 +279,10 @@
     },
     "height": "1,0 m",
     "weight": "13,0 kg",
-    "egg_groups": ["Monstrueux", "V\u00e9g\u00e9tal"],
+    "egg_groups": [
+      "Monstrueux",
+      "V\u00e9g\u00e9tal"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -428,7 +434,10 @@
     },
     "height": "2,0 m",
     "weight": "100,0 kg",
-    "egg_groups": ["Monstrueux", "V\u00e9g\u00e9tal"],
+    "egg_groups": [
+      "Monstrueux",
+      "V\u00e9g\u00e9tal"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -567,7 +576,10 @@
     },
     "height": "0,6 m",
     "weight": "8,5 kg",
-    "egg_groups": ["Draconique", "Monstrueux"],
+    "egg_groups": [
+      "Draconique",
+      "Monstrueux"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -706,7 +718,10 @@
     },
     "height": "1,1 m",
     "weight": "19,0 kg",
-    "egg_groups": ["Monstrueux", "Draconique"],
+    "egg_groups": [
+      "Monstrueux",
+      "Draconique"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -865,7 +880,10 @@
     },
     "height": "1,7 m",
     "weight": "90,5 kg",
-    "egg_groups": ["Draconique", "Monstrueux"],
+    "egg_groups": [
+      "Draconique",
+      "Monstrueux"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -1004,7 +1022,10 @@
     },
     "height": "0,5 m",
     "weight": "9,0 kg",
-    "egg_groups": ["Aquatique 1", "Monstrueux"],
+    "egg_groups": [
+      "Aquatique 1",
+      "Monstrueux"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -1143,7 +1164,10 @@
     },
     "height": "1,0 m",
     "weight": "22,5 kg",
-    "egg_groups": ["Aquatique 1", "Monstrueux"],
+    "egg_groups": [
+      "Aquatique 1",
+      "Monstrueux"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -1291,7 +1315,10 @@
     },
     "height": "1,6 m",
     "weight": "85,5 kg",
-    "egg_groups": ["Aquatique 1", "Monstrueux"],
+    "egg_groups": [
+      "Aquatique 1",
+      "Monstrueux"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -1430,7 +1457,9 @@
     },
     "height": "0,3 m",
     "weight": "2,9 kg",
-    "egg_groups": ["Insecto\u00efde"],
+    "egg_groups": [
+      "Insecto\u00efde"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -1565,7 +1594,9 @@
     },
     "height": "0,7 m",
     "weight": "9,9 kg",
-    "egg_groups": ["Insecto\u00efde"],
+    "egg_groups": [
+      "Insecto\u00efde"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -1709,7 +1740,9 @@
     },
     "height": "1,1 m",
     "weight": "32,0 kg",
-    "egg_groups": ["Insecto\u00efde"],
+    "egg_groups": [
+      "Insecto\u00efde"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -1852,7 +1885,9 @@
     },
     "height": "0,3 m",
     "weight": "3,2 kg",
-    "egg_groups": ["Insecto\u00efde"],
+    "egg_groups": [
+      "Insecto\u00efde"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -1991,7 +2026,9 @@
     },
     "height": "0,6 m",
     "weight": "10,0 kg",
-    "egg_groups": ["Insecto\u00efde"],
+    "egg_groups": [
+      "Insecto\u00efde"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -2132,7 +2169,9 @@
     },
     "height": "1,0 m",
     "weight": "29,5 kg",
-    "egg_groups": ["Insecto\u00efde"],
+    "egg_groups": [
+      "Insecto\u00efde"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -2279,7 +2318,9 @@
     },
     "height": "0,3 m",
     "weight": "1,8 kg",
-    "egg_groups": ["A\u00e9rien"],
+    "egg_groups": [
+      "A\u00e9rien"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -2426,7 +2467,9 @@
     },
     "height": "1,1 m",
     "weight": "30,0 kg",
-    "egg_groups": ["A\u00e9rien"],
+    "egg_groups": [
+      "A\u00e9rien"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -2579,7 +2622,9 @@
     },
     "height": "1,5 m",
     "weight": "39,5 kg",
-    "egg_groups": ["A\u00e9rien"],
+    "egg_groups": [
+      "A\u00e9rien"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -2717,7 +2762,9 @@
     },
     "height": "0,3 m",
     "weight": "3,5 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -2858,7 +2905,9 @@
     },
     "height": "0,7 m",
     "weight": "18,5 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -3000,7 +3049,9 @@
     },
     "height": "0,3 m",
     "weight": "2,0 kg",
-    "egg_groups": ["A\u00e9rien"],
+    "egg_groups": [
+      "A\u00e9rien"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -3137,7 +3188,9 @@
     },
     "height": "1,2 m",
     "weight": "38,0 kg",
-    "egg_groups": ["A\u00e9rien"],
+    "egg_groups": [
+      "A\u00e9rien"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -3275,7 +3328,10 @@
     },
     "height": "2,0 m",
     "weight": "6,9 kg",
-    "egg_groups": ["Terrestre", "Draconique"],
+    "egg_groups": [
+      "Terrestre",
+      "Draconique"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -3412,7 +3468,10 @@
     },
     "height": "3,5 m",
     "weight": "65,0 kg",
-    "egg_groups": ["Terrestre", "Draconique"],
+    "egg_groups": [
+      "Terrestre",
+      "Draconique"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -3554,7 +3613,10 @@
     },
     "height": "0,4 m",
     "weight": "6,0 kg",
-    "egg_groups": ["Terrestre", "F\u00e9erique"],
+    "egg_groups": [
+      "Terrestre",
+      "F\u00e9erique"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -3691,7 +3753,10 @@
     },
     "height": "0,8 m",
     "weight": "30,0 kg",
-    "egg_groups": ["Terrestre", "F\u00e9erique"],
+    "egg_groups": [
+      "Terrestre",
+      "F\u00e9erique"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -3829,7 +3894,9 @@
     },
     "height": "0,6 m",
     "weight": "12,0 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -3966,7 +4033,9 @@
     },
     "height": "1,0 m",
     "weight": "29,5 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -4113,7 +4182,10 @@
     },
     "height": "0,4 m",
     "weight": "7,0 kg",
-    "egg_groups": ["Monstrueux", "Terrestre"],
+    "egg_groups": [
+      "Monstrueux",
+      "Terrestre"
+    ],
     "sexe": {
       "male": 0.0,
       "female": 100.0
@@ -4544,7 +4616,10 @@
     },
     "height": "0,5 m",
     "weight": "9,0 kg",
-    "egg_groups": ["Monstrueux", "Terrestre"],
+    "egg_groups": [
+      "Monstrueux",
+      "Terrestre"
+    ],
     "sexe": {
       "male": 100.0,
       "female": 0.0
@@ -4687,7 +4762,10 @@
     },
     "height": "0,9 m",
     "weight": "19,5 kg",
-    "egg_groups": ["Monstrueux", "Terrestre"],
+    "egg_groups": [
+      "Monstrueux",
+      "Terrestre"
+    ],
     "sexe": {
       "male": 100.0,
       "female": 0.0
@@ -4832,7 +4910,10 @@
     },
     "height": "1,4 m",
     "weight": "62,0 kg",
-    "egg_groups": ["Monstrueux", "Terrestre"],
+    "egg_groups": [
+      "Monstrueux",
+      "Terrestre"
+    ],
     "sexe": {
       "male": 100.0,
       "female": 0.0
@@ -4975,7 +5056,9 @@
     },
     "height": "0,6 m",
     "weight": "7,5 kg",
-    "egg_groups": ["F\u00e9erique"],
+    "egg_groups": [
+      "F\u00e9erique"
+    ],
     "sexe": {
       "male": 25.0,
       "female": 75.0
@@ -5116,7 +5199,9 @@
     },
     "height": "1,3 m",
     "weight": "40,0 kg",
-    "egg_groups": ["F\u00e9erique"],
+    "egg_groups": [
+      "F\u00e9erique"
+    ],
     "sexe": {
       "male": 25.0,
       "female": 75.0
@@ -5250,7 +5335,9 @@
     },
     "height": "0,6 m",
     "weight": "9,9 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 25.0,
       "female": 75.0
@@ -5387,7 +5474,9 @@
     },
     "height": "1,1 m",
     "weight": "19,9 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 25.0,
       "female": 75.0
@@ -5538,7 +5627,9 @@
     },
     "height": "0,5 m",
     "weight": "5,5 kg",
-    "egg_groups": ["F\u00e9erique"],
+    "egg_groups": [
+      "F\u00e9erique"
+    ],
     "sexe": {
       "male": 25.0,
       "female": 75.0
@@ -5683,7 +5774,9 @@
     },
     "height": "1,0 m",
     "weight": "12,0 kg",
-    "egg_groups": ["F\u00e9erique"],
+    "egg_groups": [
+      "F\u00e9erique"
+    ],
     "sexe": {
       "male": 25.0,
       "female": 75.0
@@ -5826,7 +5919,9 @@
     },
     "height": "0,8 m",
     "weight": "7,5 kg",
-    "egg_groups": ["A\u00e9rien"],
+    "egg_groups": [
+      "A\u00e9rien"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -5969,7 +6064,9 @@
     },
     "height": "1,6 m",
     "weight": "55,0 kg",
-    "egg_groups": ["A\u00e9rien"],
+    "egg_groups": [
+      "A\u00e9rien"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -6117,7 +6214,9 @@
     },
     "height": "0,5 m",
     "weight": "5,4 kg",
-    "egg_groups": ["V\u00e9g\u00e9tal"],
+    "egg_groups": [
+      "V\u00e9g\u00e9tal"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -6265,7 +6364,9 @@
     },
     "height": "0,8 m",
     "weight": "8,6 kg",
-    "egg_groups": ["V\u00e9g\u00e9tal"],
+    "egg_groups": [
+      "V\u00e9g\u00e9tal"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -6406,7 +6507,9 @@
     },
     "height": "1,2 m",
     "weight": "18,6 kg",
-    "egg_groups": ["V\u00e9g\u00e9tal"],
+    "egg_groups": [
+      "V\u00e9g\u00e9tal"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -6548,7 +6651,10 @@
     },
     "height": "0,3 m",
     "weight": "5,4 kg",
-    "egg_groups": ["Insecto\u00efde", "V\u00e9g\u00e9tal"],
+    "egg_groups": [
+      "Insecto\u00efde",
+      "V\u00e9g\u00e9tal"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -6689,7 +6795,10 @@
     },
     "height": "1,0 m",
     "weight": "29,5 kg",
-    "egg_groups": ["Insecto\u00efde", "V\u00e9g\u00e9tal"],
+    "egg_groups": [
+      "Insecto\u00efde",
+      "V\u00e9g\u00e9tal"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -6831,7 +6940,9 @@
     },
     "height": "1,0 m",
     "weight": "30,0 kg",
-    "egg_groups": ["Insecto\u00efde"],
+    "egg_groups": [
+      "Insecto\u00efde"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -6972,7 +7083,9 @@
     },
     "height": "1,5 m",
     "weight": "12,5 kg",
-    "egg_groups": ["Insecto\u00efde"],
+    "egg_groups": [
+      "Insecto\u00efde"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -7110,7 +7223,9 @@
     },
     "height": "0,2 m",
     "weight": "0,8 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -7251,7 +7366,9 @@
     },
     "height": "0,7 m",
     "weight": "33,3 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -7396,7 +7513,9 @@
     },
     "height": "0,4 m",
     "weight": "4,2 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -7540,7 +7659,9 @@
     },
     "height": "1,0 m",
     "weight": "32,0 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -7682,7 +7803,10 @@
     },
     "height": "0,8 m",
     "weight": "19,6 kg",
-    "egg_groups": ["Aquatique 1", "Terrestre"],
+    "egg_groups": [
+      "Aquatique 1",
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -7819,7 +7943,10 @@
     },
     "height": "1,7 m",
     "weight": "76,6 kg",
-    "egg_groups": ["Aquatique 1", "Terrestre"],
+    "egg_groups": [
+      "Aquatique 1",
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -7962,7 +8089,9 @@
     },
     "height": "0,5 m",
     "weight": "28,0 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -8105,7 +8234,9 @@
     },
     "height": "1,0 m",
     "weight": "32,0 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -8243,7 +8374,9 @@
     },
     "height": "0,7 m",
     "weight": "19,0 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 75.0,
       "female": 25.0
@@ -8384,7 +8517,9 @@
     },
     "height": "1,9 m",
     "weight": "155,0 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 75.0,
       "female": 25.0
@@ -8536,7 +8671,9 @@
     },
     "height": "0,6 m",
     "weight": "12,4 kg",
-    "egg_groups": ["Aquatique 1"],
+    "egg_groups": [
+      "Aquatique 1"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -8684,7 +8821,9 @@
     },
     "height": "1,0 m",
     "weight": "20,0 kg",
-    "egg_groups": ["Aquatique 1"],
+    "egg_groups": [
+      "Aquatique 1"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -8829,7 +8968,9 @@
     },
     "height": "1,3 m",
     "weight": "54,0 kg",
-    "egg_groups": ["Aquatique 1"],
+    "egg_groups": [
+      "Aquatique 1"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -8972,7 +9113,9 @@
     },
     "height": "0,9 m",
     "weight": "19,5 kg",
-    "egg_groups": ["Humano\u00efde"],
+    "egg_groups": [
+      "Humano\u00efde"
+    ],
     "sexe": {
       "male": 75.0,
       "female": 25.0
@@ -9115,7 +9258,9 @@
     },
     "height": "1,3 m",
     "weight": "56,5 kg",
-    "egg_groups": ["Humano\u00efde"],
+    "egg_groups": [
+      "Humano\u00efde"
+    ],
     "sexe": {
       "male": 75.0,
       "female": 25.0
@@ -9264,7 +9409,9 @@
     },
     "height": "1,5 m",
     "weight": "48,0 kg",
-    "egg_groups": ["Humano\u00efde"],
+    "egg_groups": [
+      "Humano\u00efde"
+    ],
     "sexe": {
       "male": 75.0,
       "female": 25.0
@@ -9407,7 +9554,9 @@
     },
     "height": "0,8 m",
     "weight": "19,5 kg",
-    "egg_groups": ["Humano\u00efde"],
+    "egg_groups": [
+      "Humano\u00efde"
+    ],
     "sexe": {
       "male": 75.0,
       "female": 25.0
@@ -9550,7 +9699,9 @@
     },
     "height": "1,5 m",
     "weight": "70,5 kg",
-    "egg_groups": ["Humano\u00efde"],
+    "egg_groups": [
+      "Humano\u00efde"
+    ],
     "sexe": {
       "male": 75.0,
       "female": 25.0
@@ -9694,7 +9845,9 @@
     },
     "height": "1,6 m",
     "weight": "130,0 kg",
-    "egg_groups": ["Humano\u00efde"],
+    "egg_groups": [
+      "Humano\u00efde"
+    ],
     "sexe": {
       "male": 75.0,
       "female": 25.0
@@ -9837,7 +9990,9 @@
     },
     "height": "0,7 m",
     "weight": "4,0 kg",
-    "egg_groups": ["V\u00e9g\u00e9tal"],
+    "egg_groups": [
+      "V\u00e9g\u00e9tal"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -9980,7 +10135,9 @@
     },
     "height": "1,0 m",
     "weight": "6,4 kg",
-    "egg_groups": ["V\u00e9g\u00e9tal"],
+    "egg_groups": [
+      "V\u00e9g\u00e9tal"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -10121,7 +10278,9 @@
     },
     "height": "1,7 m",
     "weight": "15,5 kg",
-    "egg_groups": ["V\u00e9g\u00e9tal"],
+    "egg_groups": [
+      "V\u00e9g\u00e9tal"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -10263,7 +10422,9 @@
     },
     "height": "0,9 m",
     "weight": "45,5 kg",
-    "egg_groups": ["Aquatique 3"],
+    "egg_groups": [
+      "Aquatique 3"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -10404,7 +10565,9 @@
     },
     "height": "1,6 m",
     "weight": "55,0 kg",
-    "egg_groups": ["Aquatique 3"],
+    "egg_groups": [
+      "Aquatique 3"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -10551,7 +10714,9 @@
     },
     "height": "0,4 m",
     "weight": "20,0 kg",
-    "egg_groups": ["Min\u00e9ral"],
+    "egg_groups": [
+      "Min\u00e9ral"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -10702,7 +10867,9 @@
     },
     "height": "1,0 m",
     "weight": "105,0 kg",
-    "egg_groups": ["Min\u00e9ral"],
+    "egg_groups": [
+      "Min\u00e9ral"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -10851,7 +11018,9 @@
     },
     "height": "1,4 m",
     "weight": "300,0 kg",
-    "egg_groups": ["Min\u00e9ral"],
+    "egg_groups": [
+      "Min\u00e9ral"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -10993,7 +11162,9 @@
     },
     "height": "1,0 m",
     "weight": "30,0 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -11134,7 +11305,9 @@
     },
     "height": "1,7 m",
     "weight": "95,0 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -11285,7 +11458,10 @@
     },
     "height": "1,2 m",
     "weight": "36,0 kg",
-    "egg_groups": ["Monstrueux", "Aquatique 1"],
+    "egg_groups": [
+      "Monstrueux",
+      "Aquatique 1"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -11438,7 +11614,10 @@
     },
     "height": "1,6 m",
     "weight": "78,5 kg",
-    "egg_groups": ["Monstrueux", "Aquatique 1"],
+    "egg_groups": [
+      "Monstrueux",
+      "Aquatique 1"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -11589,7 +11768,9 @@
     },
     "height": "0,3 m",
     "weight": "6,0 kg",
-    "egg_groups": ["Min\u00e9ral"],
+    "egg_groups": [
+      "Min\u00e9ral"
+    ],
     "sexe": null,
     "catch_rate": 190,
     "level_100": 1000000,
@@ -11733,7 +11914,9 @@
     },
     "height": "1,0 m",
     "weight": "60,0 kg",
-    "egg_groups": ["Min\u00e9ral"],
+    "egg_groups": [
+      "Min\u00e9ral"
+    ],
     "sexe": null,
     "catch_rate": 60,
     "level_100": 1000000,
@@ -11862,7 +12045,10 @@
     "evolution": null,
     "height": "0,8 m",
     "weight": "15,0 kg",
-    "egg_groups": ["A\u00e9rien", "Terrestre"],
+    "egg_groups": [
+      "A\u00e9rien",
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -12008,7 +12194,9 @@
     },
     "height": "1,4 m",
     "weight": "39,2 kg",
-    "egg_groups": ["A\u00e9rien"],
+    "egg_groups": [
+      "A\u00e9rien"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -12149,7 +12337,9 @@
     },
     "height": "1,8 m",
     "weight": "85,2 kg",
-    "egg_groups": ["A\u00e9rien"],
+    "egg_groups": [
+      "A\u00e9rien"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -12287,7 +12477,10 @@
     },
     "height": "1,1 m",
     "weight": "90,0 kg",
-    "egg_groups": ["Aquatique 1", "Terrestre"],
+    "egg_groups": [
+      "Aquatique 1",
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -12428,7 +12621,10 @@
     },
     "height": "1,7 m",
     "weight": "120,0 kg",
-    "egg_groups": ["Aquatique 1", "Terrestre"],
+    "egg_groups": [
+      "Aquatique 1",
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -12566,7 +12762,9 @@
     },
     "height": "0,9 m",
     "weight": "30,0 kg",
-    "egg_groups": ["Amorphe"],
+    "egg_groups": [
+      "Amorphe"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -12707,7 +12905,9 @@
     },
     "height": "1,2 m",
     "weight": "30,0 kg",
-    "egg_groups": ["Amorphe"],
+    "egg_groups": [
+      "Amorphe"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -12849,7 +13049,9 @@
     },
     "height": "0,3 m",
     "weight": "4,0 kg",
-    "egg_groups": ["Aquatique 3"],
+    "egg_groups": [
+      "Aquatique 3"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -12990,7 +13192,9 @@
     },
     "height": "1,5 m",
     "weight": "132,5 kg",
-    "egg_groups": ["Aquatique 3"],
+    "egg_groups": [
+      "Aquatique 3"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -13129,7 +13333,9 @@
     },
     "height": "1,3 m",
     "weight": "0,1 kg",
-    "egg_groups": ["Amorphe"],
+    "egg_groups": [
+      "Amorphe"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -13268,7 +13474,9 @@
     },
     "height": "1,6 m",
     "weight": "0,1 kg",
-    "egg_groups": ["Amorphe"],
+    "egg_groups": [
+      "Amorphe"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -13420,7 +13628,9 @@
     },
     "height": "1,5 m",
     "weight": "40,5 kg",
-    "egg_groups": ["Amorphe"],
+    "egg_groups": [
+      "Amorphe"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -13562,7 +13772,9 @@
     },
     "height": "8,8 m",
     "weight": "210,0 kg",
-    "egg_groups": ["Min\u00e9ral"],
+    "egg_groups": [
+      "Min\u00e9ral"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -13700,7 +13912,9 @@
     },
     "height": "1,0 m",
     "weight": "32,4 kg",
-    "egg_groups": ["Humano\u00efde"],
+    "egg_groups": [
+      "Humano\u00efde"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -13837,7 +14051,9 @@
     },
     "height": "1,6 m",
     "weight": "75,6 kg",
-    "egg_groups": ["Humano\u00efde"],
+    "egg_groups": [
+      "Humano\u00efde"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -13975,7 +14191,9 @@
     },
     "height": "0,4 m",
     "weight": "6,5 kg",
-    "egg_groups": ["Aquatique 3"],
+    "egg_groups": [
+      "Aquatique 3"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -14115,7 +14333,9 @@
     },
     "height": "1,3 m",
     "weight": "60,0 kg",
-    "egg_groups": ["Aquatique 3"],
+    "egg_groups": [
+      "Aquatique 3"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -14253,7 +14473,9 @@
     },
     "height": "0,5 m",
     "weight": "10,4 kg",
-    "egg_groups": ["Min\u00e9ral"],
+    "egg_groups": [
+      "Min\u00e9ral"
+    ],
     "sexe": null,
     "catch_rate": 190,
     "level_100": 1000000,
@@ -14391,7 +14613,9 @@
     },
     "height": "1,2 m",
     "weight": "66,6 kg",
-    "egg_groups": ["Min\u00e9ral"],
+    "egg_groups": [
+      "Min\u00e9ral"
+    ],
     "sexe": null,
     "catch_rate": 60,
     "level_100": 1000000,
@@ -14530,7 +14754,9 @@
     },
     "height": "0,4 m",
     "weight": "2,5 kg",
-    "egg_groups": ["V\u00e9g\u00e9tal"],
+    "egg_groups": [
+      "V\u00e9g\u00e9tal"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -14667,7 +14893,9 @@
     },
     "height": "2,0 m",
     "weight": "120,0 kg",
-    "egg_groups": ["V\u00e9g\u00e9tal"],
+    "egg_groups": [
+      "V\u00e9g\u00e9tal"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -14809,7 +15037,9 @@
     },
     "height": "0,4 m",
     "weight": "6,5 kg",
-    "egg_groups": ["Monstrueux"],
+    "egg_groups": [
+      "Monstrueux"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -14946,7 +15176,9 @@
     },
     "height": "1,0 m",
     "weight": "45,0 kg",
-    "egg_groups": ["Monstrueux"],
+    "egg_groups": [
+      "Monstrueux"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -15087,7 +15319,9 @@
     },
     "height": "1,5 m",
     "weight": "49,8 kg",
-    "egg_groups": ["Humano\u00efde"],
+    "egg_groups": [
+      "Humano\u00efde"
+    ],
     "sexe": {
       "male": 100.0,
       "female": 0.0
@@ -15224,7 +15458,9 @@
     },
     "height": "1,4 m",
     "weight": "50,2 kg",
-    "egg_groups": ["Humano\u00efde"],
+    "egg_groups": [
+      "Humano\u00efde"
+    ],
     "sexe": {
       "male": 100.0,
       "female": 0.0
@@ -15362,7 +15598,9 @@
     },
     "height": "1,2 m",
     "weight": "65,5 kg",
-    "egg_groups": ["Monstrueux"],
+    "egg_groups": [
+      "Monstrueux"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -15500,7 +15738,9 @@
     },
     "height": "0,6 m",
     "weight": "1,0 kg",
-    "egg_groups": ["Amorphe"],
+    "egg_groups": [
+      "Amorphe"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -15637,7 +15877,9 @@
     },
     "height": "1,2 m",
     "weight": "9,5 kg",
-    "egg_groups": ["Amorphe"],
+    "egg_groups": [
+      "Amorphe"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -15788,7 +16030,10 @@
     },
     "height": "1,0 m",
     "weight": "115,0 kg",
-    "egg_groups": ["Monstrueux", "Terrestre"],
+    "egg_groups": [
+      "Monstrueux",
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -15935,7 +16180,10 @@
     },
     "height": "1,9 m",
     "weight": "120,0 kg",
-    "egg_groups": ["Monstrueux", "Terrestre"],
+    "egg_groups": [
+      "Monstrueux",
+      "Terrestre"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -16077,7 +16325,9 @@
     },
     "height": "1,1 m",
     "weight": "34,6 kg",
-    "egg_groups": ["F\u00e9erique"],
+    "egg_groups": [
+      "F\u00e9erique"
+    ],
     "sexe": {
       "male": 0.0,
       "female": 100.0
@@ -16215,7 +16465,9 @@
     },
     "height": "1,0 m",
     "weight": "35,0 kg",
-    "egg_groups": ["V\u00e9g\u00e9tal"],
+    "egg_groups": [
+      "V\u00e9g\u00e9tal"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -16355,7 +16607,9 @@
     },
     "height": "2,2 m",
     "weight": "80,0 kg",
-    "egg_groups": ["Monstrueux"],
+    "egg_groups": [
+      "Monstrueux"
+    ],
     "sexe": {
       "male": 0.0,
       "female": 100.0
@@ -16498,7 +16752,10 @@
     },
     "height": "0,4 m",
     "weight": "8,0 kg",
-    "egg_groups": ["Aquatique 1", "Draconique"],
+    "egg_groups": [
+      "Aquatique 1",
+      "Draconique"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -16641,7 +16898,10 @@
     },
     "height": "1,2 m",
     "weight": "25,0 kg",
-    "egg_groups": ["Aquatique 1", "Draconique"],
+    "egg_groups": [
+      "Aquatique 1",
+      "Draconique"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -16779,7 +17039,9 @@
     },
     "height": "0,6 m",
     "weight": "15,0 kg",
-    "egg_groups": ["Aquatique 2"],
+    "egg_groups": [
+      "Aquatique 2"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -16916,7 +17178,9 @@
     },
     "height": "1,3 m",
     "weight": "39,0 kg",
-    "egg_groups": ["Aquatique 2"],
+    "egg_groups": [
+      "Aquatique 2"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -17054,7 +17318,9 @@
     },
     "height": "0,8 m",
     "weight": "34,5 kg",
-    "egg_groups": ["Aquatique 3"],
+    "egg_groups": [
+      "Aquatique 3"
+    ],
     "sexe": null,
     "catch_rate": 225,
     "level_100": 1250000,
@@ -17192,7 +17458,9 @@
     },
     "height": "1,1 m",
     "weight": "80,0 kg",
-    "egg_groups": ["Aquatique 3"],
+    "egg_groups": [
+      "Aquatique 3"
+    ],
     "sexe": null,
     "catch_rate": 60,
     "level_100": 1250000,
@@ -17330,7 +17598,9 @@
     },
     "height": "1,3 m",
     "weight": "54,5 kg",
-    "egg_groups": ["Humano\u00efde"],
+    "egg_groups": [
+      "Humano\u00efde"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -17481,7 +17751,9 @@
     },
     "height": "1,5 m",
     "weight": "56,0 kg",
-    "egg_groups": ["Insecto\u00efde"],
+    "egg_groups": [
+      "Insecto\u00efde"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -17622,7 +17894,9 @@
     },
     "height": "1,4 m",
     "weight": "40,6 kg",
-    "egg_groups": ["Humano\u00efde"],
+    "egg_groups": [
+      "Humano\u00efde"
+    ],
     "sexe": {
       "male": 0.0,
       "female": 100.0
@@ -17761,7 +18035,9 @@
     },
     "height": "1,1 m",
     "weight": "30,0 kg",
-    "egg_groups": ["Humano\u00efde"],
+    "egg_groups": [
+      "Humano\u00efde"
+    ],
     "sexe": {
       "male": 75.0,
       "female": 25.0
@@ -17900,7 +18176,9 @@
     },
     "height": "1,3 m",
     "weight": "44,5 kg",
-    "egg_groups": ["Humano\u00efde"],
+    "egg_groups": [
+      "Humano\u00efde"
+    ],
     "sexe": {
       "male": 75.0,
       "female": 25.0
@@ -18040,7 +18318,9 @@
     },
     "height": "1,5 m",
     "weight": "55,0 kg",
-    "egg_groups": ["Insecto\u00efde"],
+    "egg_groups": [
+      "Insecto\u00efde"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -18168,7 +18448,9 @@
     "evolution": null,
     "height": "1,4 m",
     "weight": "88,4 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 100.0,
       "female": 0.0
@@ -18306,7 +18588,10 @@
     },
     "height": "0,9 m",
     "weight": "10,0 kg",
-    "egg_groups": ["Aquatique 2", "Draconique"],
+    "egg_groups": [
+      "Aquatique 2",
+      "Draconique"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -18451,7 +18736,10 @@
     },
     "height": "6,5 m",
     "weight": "235,0 kg",
-    "egg_groups": ["Aquatique 2", "Draconique"],
+    "egg_groups": [
+      "Aquatique 2",
+      "Draconique"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -18586,7 +18874,10 @@
     "evolution": null,
     "height": "2,5 m",
     "weight": "220,0 kg",
-    "egg_groups": ["Monstrueux", "Aquatique 1"],
+    "egg_groups": [
+      "Monstrueux",
+      "Aquatique 1"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -18710,7 +19001,9 @@
     "evolution": null,
     "height": "0,3 m",
     "weight": "4,0 kg",
-    "egg_groups": ["M\u00e9tamorph"],
+    "egg_groups": [
+      "M\u00e9tamorph"
+    ],
     "sexe": null,
     "catch_rate": 35,
     "level_100": 1000000,
@@ -18883,7 +19176,9 @@
     },
     "height": "0,3 m",
     "weight": "6,5 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -19016,7 +19311,9 @@
     },
     "height": "1,0 m",
     "weight": "29,0 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -19149,7 +19446,9 @@
     },
     "height": "0,8 m",
     "weight": "24,5 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -19282,7 +19581,9 @@
     },
     "height": "0,9 m",
     "weight": "25,0 kg",
-    "egg_groups": ["Terrestre"],
+    "egg_groups": [
+      "Terrestre"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -19425,7 +19726,9 @@
     },
     "height": "0,8 m",
     "weight": "36,5 kg",
-    "egg_groups": ["Min\u00e9ral"],
+    "egg_groups": [
+      "Min\u00e9ral"
+    ],
     "sexe": null,
     "catch_rate": 45,
     "level_100": 1000000,
@@ -19564,7 +19867,10 @@
     },
     "height": "0,4 m",
     "weight": "7,5 kg",
-    "egg_groups": ["Aquatique 1", "Aquatique 3"],
+    "egg_groups": [
+      "Aquatique 1",
+      "Aquatique 3"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -19705,7 +20011,10 @@
     },
     "height": "1,0 m",
     "weight": "35,0 kg",
-    "egg_groups": ["Aquatique 1", "Aquatique 3"],
+    "egg_groups": [
+      "Aquatique 1",
+      "Aquatique 3"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -19847,7 +20156,10 @@
     },
     "height": "0,5 m",
     "weight": "11,5 kg",
-    "egg_groups": ["Aquatique 1", "Aquatique 3"],
+    "egg_groups": [
+      "Aquatique 1",
+      "Aquatique 3"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -19988,7 +20300,10 @@
     },
     "height": "1,3 m",
     "weight": "40,5 kg",
-    "egg_groups": ["Aquatique 1", "Aquatique 3"],
+    "egg_groups": [
+      "Aquatique 1",
+      "Aquatique 3"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -20132,7 +20447,9 @@
     },
     "height": "1,8 m",
     "weight": "59,0 kg",
-    "egg_groups": ["A\u00e9rien"],
+    "egg_groups": [
+      "A\u00e9rien"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -20263,7 +20580,9 @@
     "evolution": null,
     "height": "2,1 m",
     "weight": "460,0 kg",
-    "egg_groups": ["Monstrueux"],
+    "egg_groups": [
+      "Monstrueux"
+    ],
     "sexe": {
       "male": 87.5,
       "female": 12.5
@@ -20789,7 +21108,10 @@
     },
     "height": "1,8 m",
     "weight": "3,3 kg",
-    "egg_groups": ["Draconique", "Aquatique 1"],
+    "egg_groups": [
+      "Draconique",
+      "Aquatique 1"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -20928,7 +21250,10 @@
     },
     "height": "4,0 m",
     "weight": "16,5 kg",
-    "egg_groups": ["Draconique", "Aquatique 1"],
+    "egg_groups": [
+      "Draconique",
+      "Aquatique 1"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0
@@ -21069,7 +21394,10 @@
     },
     "height": "2,2 m",
     "weight": "210,0 kg",
-    "egg_groups": ["Draconique", "Aquatique 1"],
+    "egg_groups": [
+      "Draconique",
+      "Aquatique 1"
+    ],
     "sexe": {
       "male": 50.0,
       "female": 50.0

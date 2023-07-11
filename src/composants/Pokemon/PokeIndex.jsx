@@ -1,11 +1,11 @@
 import React from 'react';
-import '../styles/pokeIndex.css';
+import '../../styles/pokeIndex.css';
 import { Link } from 'react-router-dom';
 
-const PokeIndex = ({ pokemon, openPokemon }) => {
+const PokeIndex = ({ pokemon }) => {
   return (
     <Link
-      to={`/${pokemon.pokedexId}`}
+      to={`/pokemon/${pokemon.pokedexId}`}
       className={'d-flex align-center pokeIndex'}
     >
       <div>

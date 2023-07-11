@@ -9,7 +9,7 @@
   padding: 20px;
   background-color: white;
   border-radius: 15px;
-  height: 500px;
+  height: 470px;
   width: 400px;
 }
 .pokeDesc {
@@ -17,7 +17,7 @@
   margin: 4px 0;
 }
 .pokeImage {
-  height: 200px;
+  height: 170px;
 }
 
 .pokeSelect {
@@ -38,4 +38,30 @@
   background-color: white;
   margin-bottom: 1px;
   text-align: center;
+}
+
+.pokeBarInfoMax {
+  background-color: #8f8f8f;
+  height: 15px;
+  border-radius: 5px;
+  overflow: hidden;
+  position: relative;
+}
+
+.pokeBarInfo{
+  background-color: #2368fc;
+  height: 100%;
+}
+.pokeBarInfoMax span {
+  opacity: 0;
+  transition: 250ms ease-in-out opacity;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.pokeBarInfoMax:hover span {
+  opacity: 1;
 }

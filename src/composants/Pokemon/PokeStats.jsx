@@ -1,7 +1,7 @@
 import React from 'react';
 import PokeBar from './PokeBar';
 
-import MaxStat from '../data/maxStats.json';
+import MaxStat from '../../data/maxStats.json';
 
 const PokeStats = ({ stats }) => {
   return (
